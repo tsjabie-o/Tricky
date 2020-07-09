@@ -1,0 +1,13 @@
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\bin\Debug\netcoreapp3.1\Opdracht 7.exe
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\bin\Debug\netcoreapp3.1\Opdracht 7.deps.json
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\bin\Debug\netcoreapp3.1\Opdracht 7.runtimeconfig.json
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\bin\Debug\netcoreapp3.1\Opdracht 7.runtimeconfig.dev.json
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\bin\Debug\netcoreapp3.1\Opdracht 7.dll
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\bin\Debug\netcoreapp3.1\Opdracht 7.pdb
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\obj\Debug\netcoreapp3.1\Opdracht 7.csprojAssemblyReference.cache
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\obj\Debug\netcoreapp3.1\Opdracht 7.csproj.CoreCompileInputs.cache
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\obj\Debug\netcoreapp3.1\Opdracht 7.AssemblyInfoInputs.cache
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\obj\Debug\netcoreapp3.1\Opdracht 7.AssemblyInfo.cs
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\obj\Debug\netcoreapp3.1\Opdracht 7.dll
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\obj\Debug\netcoreapp3.1\Opdracht 7.pdb
+D:\Study\DAKI\Programmeeropdrachten\Opdracht 7\obj\Debug\netcoreapp3.1\Opdracht 7.genruntimeconfig.cache
